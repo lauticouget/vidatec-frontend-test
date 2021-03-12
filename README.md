@@ -1,0 +1,1 @@
+# vidatec-frontend-test
